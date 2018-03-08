@@ -1,2 +1,2 @@
-# Lab5_cockrill
-Lab 5
+# JSPlatformer
+JS Platformer for DIG 3480C
